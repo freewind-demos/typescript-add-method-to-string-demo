@@ -1,9 +1,10 @@
-TypeScript Hello World Demo
-============================
+TypeScript Add Method to String Demo
+====================================
+
+如何在typescript中向string类型添加自己的方法
 
 ```
 npm install
-npx ts-node hello.ts
+npm run demo
 ```
 
-It will print `Hello, TypeScript!`

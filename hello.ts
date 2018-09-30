@@ -1,3 +1,4 @@
-import {capitalize} from 'lodash';
+import './string.ext';
 
-console.log("Hello " + capitalize("typescript") + "!");
+console.log(''.isEmpty());
+console.log('aaa'.isEmpty());
